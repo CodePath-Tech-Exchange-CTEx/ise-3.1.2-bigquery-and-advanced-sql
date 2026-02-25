@@ -11,5 +11,5 @@ source venv/bin/activate # Activate venv
 pip install -r requirements.txt # Install requirements
 
 # Run
-streamlit run example.py
+python example.py
 ```
